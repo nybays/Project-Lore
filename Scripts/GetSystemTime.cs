@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-// Note: The following class gets tthe user's current system time. - Amorse
+// Note: The following class gets the user's current system time. - Amorse
 public class GetSystemTime : MonoBehaviour
 {
 
