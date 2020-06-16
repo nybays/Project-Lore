@@ -5,7 +5,8 @@ using UnityEngine;
 // Note: The following class gets tthe user's current system time. - Amorse
 public class GetSystemTime : MonoBehaviour
 {
-	private int m_Hour;
+
+    private int m_Hour;
 
     // Start is called before the first frame update
     void Start()
